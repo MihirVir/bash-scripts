@@ -1,0 +1,4 @@
+Lecture1 Operating Systems 
+Lecture2 Database Management System
+Lecture3 Memory Management
+
